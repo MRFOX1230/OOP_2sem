@@ -1,0 +1,4 @@
+﻿  Practic5.cpp
+C:\Users\trudo\YandexDisk\Programms\C++\Practic5\Practic5\Practic5.cpp(364,15): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\trudo\YandexDisk\Programms\C++\Practic5\Practic5\Practic5.cpp(364,39): warning C4804: <: небезопасное использование типа "bool" в операции
+  Practic5.vcxproj -> C:\Users\trudo\YandexDisk\Programms\C++\Practic5\x64\Debug\Practic5.exe

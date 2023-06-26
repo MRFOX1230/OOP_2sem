@@ -1,0 +1,3 @@
+﻿  Practic6.cpp
+C:\Users\trudo\YandexDisk\Programms\C++\Practic6\Practic6\Practic6.cpp(149): warning C4715: Queue<Human>::push: значение возвращается не при всех путях выполнения
+  Practic6.vcxproj -> C:\Users\trudo\YandexDisk\Programms\C++\Practic6\x64\Debug\Practic6.exe
