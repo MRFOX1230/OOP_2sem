@@ -1,0 +1,5 @@
+﻿  Practic2.cpp
+C:\Users\trudo\YandexDisk\Programms\C++\Practic2\Practic2\Practic2.cpp(143,23): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\trudo\YandexDisk\Programms\C++\Practic2\Practic2\Practic2.cpp(323,23): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\trudo\YandexDisk\Programms\C++\Practic2\Practic2\Practic2.cpp(431,23): warning C4804: <: небезопасное использование типа "bool" в операции
+  Practic2.vcxproj -> C:\Users\trudo\YandexDisk\Programms\C++\Practic2\x64\Debug\Practic2.exe
